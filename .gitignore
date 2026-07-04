@@ -1,0 +1,11 @@
+# 書籍データは絶対にコミットしない（保存先は ~/kindle-library/ だが保険として）
+pages/
+*.png
+book.md
+index.md
+kindle-library/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
